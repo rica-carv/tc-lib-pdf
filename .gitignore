@@ -10,4 +10,7 @@ phpunit.xml
 **/.#*
 **/._*
 **/*.tmp
+**/*.tmp.php
 **/*.bak
+.phpunit.result.cache
+.phpdoc
